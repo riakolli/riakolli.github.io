@@ -7,7 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-
+<h2>Laboratory Projects</h2>
 {% for post in site.research %}
-  {% include archive-single.html %}
+  {% if post.category == "laboratory" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Academic Projects</h2>
+{% for post in site.research %}
+  {% if post.category == "academic" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

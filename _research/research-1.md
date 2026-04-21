@@ -2,6 +2,7 @@
 title: "Epigenomics for Early Cancer Detection"
 excerpt: "[BillionToOne](https://www.billiontoone.com/)"
 collection: research
+category: laboratory
 ---
 
 ## Research Focus

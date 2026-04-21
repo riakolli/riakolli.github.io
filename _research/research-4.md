@@ -2,6 +2,7 @@
 title: "Computer-aided diagnosis of Long COVID from lung X-Ray images"
 excerpt: "MIT 6.8300 Advances in Computer Vision Graduate-Level [Final Project](https://github.com/riakolli/long-covid-diagnosis/blob/8d67d7b68d4452d389f193c734ff5822e36a04c3/long_covid_diagnosis_report.pdf)"
 collection: research
+category: academic
 ---
 
 ## Research Focus

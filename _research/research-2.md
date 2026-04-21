@@ -2,6 +2,7 @@
 title: "Genomics for Hospital-Acquired Infection Diagnosis"
 excerpt: "[The Broad Institute, Deborah Hung Lab](https://www.thehunglaboratory.com/)"
 collection: research
+category: laboratory
 ---
 
 ## Research Focus

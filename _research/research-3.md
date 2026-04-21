@@ -2,6 +2,7 @@
 title: "Protein Engineering for Universal Vaccines"
 excerpt: "[Stanford Sarafan Chem-H, Peter Kim Lab](https://peterkimlab.stanford.edu/)"
 collection: research
+category: laboratory
 ---
 
 ## Research Focus
