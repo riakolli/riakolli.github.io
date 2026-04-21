@@ -8,15 +8,19 @@ author_profile: true
 {% include base_path %}
 
 <h2>Laboratory Projects</h2>
+<div style="padding-left: 1.5em;">
 {% for post in site.research %}
   {% if post.category == "laboratory" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+</div>
 
 <h2>Academic Projects</h2>
+<div style="padding-left: 1.5em;">
 {% for post in site.research %}
   {% if post.category == "academic" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+</div>
