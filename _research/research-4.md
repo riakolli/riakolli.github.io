@@ -11,5 +11,3 @@ Despite the end of the COVID-19 pandemic, chronic health effects from the virus 
 After data pre-processing and hyperparameter optimization, our ViT-Base16 model achieved a 0.96 F1-score across Long COVID, Ongoing COVID, and Normal classes. This model may help facilitate more accurate and efficient diagnoses of Long COVID compared to existing self-reporting methods.
 
 [Final Paper](https://github.com/riakolli/long-covid-diagnosis/blob/8d67d7b68d4452d389f193c734ff5822e36a04c3/long_covid_diagnosis_report.pdf)
-
-[Notebook](https://github.com/riakolli/long-covid-diagnosis/blob/8d67d7b68d4452d389f193c734ff5822e36a04c3/covid_xray_classification.ipynb)
